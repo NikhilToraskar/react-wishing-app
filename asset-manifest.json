@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-wishing-app/static/css/main.510a7a05.chunk.css",
+    "main.js": "/react-wishing-app/static/js/main.0ea94104.chunk.js",
+    "main.js.map": "/react-wishing-app/static/js/main.0ea94104.chunk.js.map",
+    "runtime-main.js": "/react-wishing-app/static/js/runtime-main.5418197d.js",
+    "runtime-main.js.map": "/react-wishing-app/static/js/runtime-main.5418197d.js.map",
+    "static/js/2.14648cd2.chunk.js": "/react-wishing-app/static/js/2.14648cd2.chunk.js",
+    "static/js/2.14648cd2.chunk.js.map": "/react-wishing-app/static/js/2.14648cd2.chunk.js.map",
+    "static/js/3.e9cc488d.chunk.js": "/react-wishing-app/static/js/3.e9cc488d.chunk.js",
+    "static/js/3.e9cc488d.chunk.js.map": "/react-wishing-app/static/js/3.e9cc488d.chunk.js.map",
+    "index.html": "/react-wishing-app/index.html",
+    "static/css/main.510a7a05.chunk.css.map": "/react-wishing-app/static/css/main.510a7a05.chunk.css.map",
+    "static/js/2.14648cd2.chunk.js.LICENSE.txt": "/react-wishing-app/static/js/2.14648cd2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5418197d.js",
+    "static/js/2.14648cd2.chunk.js",
+    "static/css/main.510a7a05.chunk.css",
+    "static/js/main.0ea94104.chunk.js"
+  ]
+}
